@@ -1,10 +1,10 @@
 import './assets/styles.css';
+import Countries from './pages/Countries';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello React Capstone</h1>
-      <p>Javier J. Martinez F.</p>
+      <Countries />
     </div>
   );
 }
