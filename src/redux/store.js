@@ -1,17 +1,11 @@
-import { createBrowserRouter } from 'react-router-dom';
-import React from 'react';
-import App from '../App';
-import Navigation from '../pages/Navigation';
+import { configureStore } from '@reduxjs/toolkit';
 
-const router = createBrowserRouter([
-  {
-    path: '/',
-    element: (
-      <Navigation>
-        <App />
-      </Navigation>
-    ),
+import detailReducers from './detail/detailSlice';
+
+const store = configureStore({
+  reducer: {
+    detail: detailReducers,
   },
-]);
+});
 
-export default router;
+export default store;
