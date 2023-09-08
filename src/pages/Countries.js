@@ -1,6 +1,6 @@
 import React from 'react';
 import CountriesList from '../components/CountriesList';
-import continent from '../assets/world-map.png';
+import continent from '../assets/world-map.jpg';
 
 const Countries = () => (
   <>
