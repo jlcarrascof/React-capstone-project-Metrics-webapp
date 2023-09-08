@@ -1,4 +1,4 @@
-import './assets/app.css';
+import './assets/styles.css';
 import Countries from './pages/Countries';
 
 function App() {
