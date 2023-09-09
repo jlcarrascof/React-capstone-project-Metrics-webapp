@@ -104,8 +104,8 @@ Responsive Design with these subpages:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://649a4e85b14d052e99046154--tubular-toffee-d5af3c.netlify.app/)
-- [Proyect Overview Video](https://www.loom.com/share/fdaf9e7282ca48aa9342663feffa7919?sid=05ffb351-3cc2-40a4-bdb3-f310882b070c)
+- [Live Demo](https://react-capstone-project-metrics-webapp-fawc.onrender.com)
+- [Proyect Overview Video]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
