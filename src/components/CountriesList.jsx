@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { CgSearch } from 'react-icons/cg';
 import { useSelector } from 'react-redux';
 import EuropeCountries from './EuropeCountries';
-import CountriesItem from './CountriesItems';
+import CountriesItem from './CountriesItem';
 
 const CountriesList = () => {
   const [search, setSearch] = useState('');
@@ -17,7 +17,7 @@ const CountriesList = () => {
             type="text"
             className="search-bar"
             onChange={(e) => setSearch(e.target.value)}
-            placeholder={`  Search ${searchFilter ? 'capitals' : 'countries'}`}
+            placeholder="  Search countries"
           />
           <CgSearch />
         </form>
