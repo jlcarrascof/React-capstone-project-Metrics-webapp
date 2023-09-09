@@ -1,11 +1,11 @@
-import './assets/styles.css';
+import './assests/app.css';
 import Countries from './pages/Countries';
 
 function App() {
   return (
-    <div className="App">
+    <>
       <Countries />
-    </div>
+    </>
   );
 }
 
