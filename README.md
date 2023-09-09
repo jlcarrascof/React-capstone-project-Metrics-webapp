@@ -3,7 +3,7 @@
 <div align="center">
   <br/>
 
-  <h1><b>React & Redux group project - Space Travelers' Hub</b></h1>
+  <h1><b>React capstone project - Metrics webapp</b></h1>
 
   <br/>
 </div>
@@ -34,22 +34,21 @@
 <!-- DESCRIPTION -->
 ## 📖 About the Project <a name="#about-project"></a>
 
-In this task, you will be working with the real live data from the SpaceX API. Your task is to build a web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.
+Metrics webapp is a project with great potential.
 
-Learning Objectives:
-   
-    Use React documentation
-    Use React components
-    Use React props
-    Use React Router
-    Connect React and Redux
-    Handle events in a React app
-    Write unit tests with React Testing Library
-    Use styles in a React app
-    Use React hooks
-    Apply React best practices and language style guides in code
-    Use store, actions and reducers in React
-    Perform a code review for a team member
+I need to:
+ 
+    Use React documentation.
+    Use React components.
+    Use React props.
+    Use React Router.
+    Connect React and Redux.
+    Handle events in a React app.
+    Write integration tests with a React testing library.
+    Use styles in a React app.
+    Use React life cycle methods.
+    Apply React best practices and language style guides in code.
+    Use store, actions and reducers in React.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -66,7 +65,7 @@ Learning Objectives:
 </details>
 
 <details>
-  <summary>React</summary>
+  <summary>Redux</summary>
   <ul>
     <li><a href="#">Redux</a></li>
   </ul>
@@ -96,16 +95,17 @@ Learning Objectives:
 
 ### ⭐️ Key Features <a name="key-features"></a>
 
-You will need to build a website with two subpages:
+Responsive Design with these subpages:
 
-    /rockets
-    /missions
+    /Countries
+    /Navigation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [coming soon]
+- [Live Demo](https://649a4e85b14d052e99046154--tubular-toffee-d5af3c.netlify.app/)
+- [Proyect Overview Video](https://www.loom.com/share/fdaf9e7282ca48aa9342663feffa7919?sid=05ffb351-3cc2-40a4-bdb3-f310882b070c)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,8 +121,8 @@ Ensure that you have Node.js installed on your machine.
 Clone the repository to your local machine and navigate to the project directory.
 
 ```shell
-git clone https://github.com/your-username/Space-Travelers-Hub.git
-cd Space-Travelers-Hub
+git clone https://github.com/jlcarrascof/React-capstone-project-Metrics-webapp.git
+cd React-capstone-project-Metrics-webapp
 ```
 
 ### Install
@@ -156,12 +156,6 @@ npm run build
   - GitHub: [@jlcarrascof](https://github.com/jlcarrascof)
   - Twitter: [@javiersistemas](https://twitter.com/javiersistemas)
 
-
-### 👤 **Mohamed-Gamaleldin**
-
-- GitHub: [@mohamedgamaleldin999999](https://github.com/mohamedgamaleldin999999)
-- Twitter: [@Mohamme43086002](https://twitter.com/Mohamme43086002)
-
   _Feel free to reach out to us if you have any questions or collaboration opportunities!_
 
 
@@ -171,8 +165,9 @@ npm run build
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Use tests
-- Deploy to GitHub Pages 
+- Add more metrics
+- Add more charts
+- Add more data
 
 <!-- CONTRIBUTING -->
 ## 🤝 Contributing <a name="contributing"></a>
@@ -197,6 +192,7 @@ If you like this project, please give a ⭐️ (Thank you)
 
 - [Microverse team](https://microverse.org/)
 
+- Thanks to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design] Under the [Creative Commons License](https://creativecommons.org/licenses/by-nc/4.0/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -204,6 +200,6 @@ If you like this project, please give a ⭐️ (Thank you)
 <!-- LICENSE -->
 ## 📝 License <a name="license"></a>
 
-This project is [MIT licensed](LICENSE.md) .
+This project is [MIT licensed](/LICENSE.md) .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
