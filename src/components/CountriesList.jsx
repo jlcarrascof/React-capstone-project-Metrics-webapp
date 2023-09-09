@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { CgSearch } from 'react-icons/cg';
 import { useSelector } from 'react-redux';
 import EuropeCountries from './EuropeCountries';
-import CountriesItem from './CountriesItem';
+import CountriesItem from './CountriesItems';
 
 const CountriesList = () => {
   const [search, setSearch] = useState('');
