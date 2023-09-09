@@ -168,6 +168,7 @@ npm run build
 - Add more metrics
 - Add more charts
 - Add more data
+- Add more tests
 
 <!-- CONTRIBUTING -->
 ## 🤝 Contributing <a name="contributing"></a>
