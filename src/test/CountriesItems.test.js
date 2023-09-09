@@ -1,7 +1,7 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
 import { MemoryRouter } from 'react-router-dom';
-import CountriesItem from '../components/CountriesItem';
+import CountriesItem from '../components/CountriesItems';
 
 test('renders component with correct data', () => {
   const component = renderer.create(
