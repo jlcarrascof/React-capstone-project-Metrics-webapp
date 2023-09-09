@@ -105,7 +105,7 @@ Responsive Design with these subpages:
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo](https://react-capstone-project-metrics-webapp-fawc.onrender.com)
-- [Proyect Overview Video](https://drive.google.com/file/d/1I5ijarWBwx_fvdvT1KgqfmqarRjlNzT6/view?usp=drive_link)
+- [Proyect Overview Video]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
